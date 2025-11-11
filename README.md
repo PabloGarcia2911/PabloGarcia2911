@@ -1,5 +1,5 @@
 <!-- Banner o imagen de presentación -->
-<img src="https://i.imgur.com/XXXXXXX.png" width="100%" alt="Banner">
+<img src="Banner.png>
 
 <h1 align="center">Hola 👋, soy Pablo García</h1>
 <h3 align="center">Desarrollador Fullstack en formación | Android · Kotlin · Java · JS · HTML · CSS</h3>
@@ -21,8 +21,7 @@
 ---
 
 ### 📂 Portafolio
-👉 [[Ver mis proyectos](#)  
-(https://github.com/PabloGarcia2911/PabloGarcia2911)
+👉 https://github.com/PabloGarcia2911/PabloGarcia2911
 
 ---
 
