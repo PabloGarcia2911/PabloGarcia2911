@@ -1,5 +1,5 @@
 <!-- Banner o imagen de presentación -->
-<img src="https://github.com/PabloGarcia2911/PabloGarcia2911/main/Banner.png" width="100%" alt="Banner de perfil">
+<img src="[https://github.com/PabloGarcia2911/PabloGarcia2911/main/Banner.png](https://github.com/PabloGarcia2911/PabloGarcia2911/blob/aa6da6e92cd8037a6671fbbfee27748cfce905d8/Banner.png)" width="100%" alt="Banner de perfil">
 
 <h1 align="center">Hola 👋, soy Pablo García</h1>
 <h3 align="center">Desarrollador Fullstack en formación | Android · Kotlin · Java · JS · HTML · CSS</h3>
