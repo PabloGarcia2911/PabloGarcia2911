@@ -2,7 +2,6 @@
 <img src="https://raw.githubusercontent.com/PabloGarcia2911/PabloGarcia2911/main/Banner.png" width="100%" alt="Banner de perfil">
 
 <h1 align="center">Hola 👋, soy Pablo García</h1>
-<h3 align="center">Desarrollador Fullstack en formación | Android · Kotlin · Java · JS · HTML · CSS</h3>
 
 ---
 
